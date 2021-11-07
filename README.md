@@ -19,7 +19,7 @@ Here our objective is to predict the further sales
 ![Screenshot](Output.png) 
 
 ### Live Link
-http://navisingh.pythonanywhere.com/
+http://singhnavi.pythonanywhere.com/
 
 ### Flowchart
 ![Screenshot](Flowchart.png) 
