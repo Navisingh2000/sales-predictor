@@ -4,13 +4,14 @@
 Here our objective is to predict the further sales
 
 ### Following are the steps I followed 
-1. Importing the libraries required.
-2. Making a Simple Dataset
-3. Visualizing the data
-4. Using Linear Regression Model
-5. Saving the Model
-6. Loading the Model
-7. Predicting the Model
+1. Importing libraries
+2. Reading dataset
+3. Preprocessing(Handling null values,label encoding)
+4. Separating features and labels
+5. Training the model
+6. Pickling the model
+7. Loading the model
+8. Making request for prediction
 
 ### Input Image                                                                       
 ![Screenshot](Input.png) 
